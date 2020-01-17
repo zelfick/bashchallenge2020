@@ -9,9 +9,9 @@ Also to practice the concepts with saw in basic bash and that you later on will 
 
 The proposal is to build a menu like this:
 
-echo "############################################################################"
-echo " PROGRAM TO AUTOMATE GIT, DOCKER AND OTHER MANIPULATION COMMANDS"
-echo "############################################################################"
+############################33############################################################################
+              PROGRAM TO AUTOMATE GIT, DOCKER AND OTHER MANIPULATION COMMANDS
+##########################################################################################################
 
           1) WORK WITH DOWNLOAD, UNTAR, DIRECTORIES, COPY AND PERMISSIONS
           2) WORK WITH SHELLS
