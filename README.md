@@ -10,7 +10,7 @@ Also to practice the concepts with saw in basic bash and that you later on will 
 The proposal is to build a menu like this:
 
 #################################################################################################
-              PROGRAM TO AUTOMATE GIT, DOCKER AND OTHER MANIPULATION COMMANDS
+              PROGRAM TO AUTOMATE BASH AND OTHER MANIPULATION COMMANDS
 #################################################################################################
 
           1) WORK WITH DOWNLOAD, UNTAR, DIRECTORIES, COPY AND PERMISSIONS
