@@ -35,3 +35,7 @@ Submenu 3
           2) READ AN USER INPUT DISPLAY IT ON CONSOLE AND STORE IN ARCHIVE
           3) GET A LOG AND WRITE IN A FILE 
           4) WRITE TO SYSTEMLOGS
+
+To start use the guide files when you download the zip from this repo from the console:
+
+https://github.com/zelfick/bashchallenge/archive/master.zip
