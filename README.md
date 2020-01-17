@@ -36,6 +36,36 @@ Submenu 3
           3) GET A LOG AND WRITE IN A FILE 
           4) WRITE TO SYSTEMLOGS
 
-To start use the guide files when you download the zip from this repo from the console:
 
-https://github.com/zelfick/bashchallenge/archive/master.zip
+
+Copy and implement this shell script:​
+
+​
+
+downloadzip.sh -------------------------------------------------------------------------------​
+
+#!/bin/bash​
+
+#This scripts shows a web page and capture it in a log​
+
+read -p "Enter the URL of the webpage you want to download: " WEBPAGE​
+
+#Download the archive with wget​
+
+sudo wget ${WEBPAGE}​
+
+​
+
+-----------------------------------------------------------------------------------------------------​
+
+​
+
+Then using it download the archives from this site:​
+
+​
+
+https://github.com/zelfick/bashchallenge/archive/master.zip​
+
+​
+
+And enjoy building the menu.​
