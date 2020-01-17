@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "############################################################################"
-echo " PROGRAM TO AUTOMATE GIT, DOCKER AND OTHER MANIPULATION COMMANDS"
+echo " PROGRAM TO AUTOMATE BASH AND OTHER MANIPULATION COMMANDS"
 echo "############################################################################"
 
 read -p "CHOOSE THE ACTION TO EXECUTE 
